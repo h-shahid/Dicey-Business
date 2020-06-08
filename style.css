@@ -1,0 +1,23 @@
+.dice {
+  height: 50px;
+  width: 50px;
+  border: 2px solid purple;
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace; 
+}
+
+.new {
+    display: flex; 
+}
+
+h1{
+    text-align: center;
+font-family: monospace; 
+    color: purple
+}
+body {
+    background-color: lightgrey; 
+}
